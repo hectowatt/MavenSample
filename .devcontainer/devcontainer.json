@@ -1,0 +1,6 @@
+{
+    "name": "Java 1.8 + Maven Dev",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "java-dev",
+    "workspaceFolder": "/app"
+}
