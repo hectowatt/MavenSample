@@ -1,3 +1,5 @@
+mavensample/model/Greeting.class
+mavensample/resource/HelloResource.class
 mavensample/client/ApiClient.class
 mavensample/server/MockApiServer.class
-mavensample/model/Person.class
+mavensample/AppConfig.class

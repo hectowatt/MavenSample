@@ -1,3 +1,5 @@
-/app/src/main/java/mavensample/client/ApiClient.java
-/app/src/main/java/mavensample/server/MockApiServer.java
-/app/src/main/java/mavensample/model/Person.java
+/home/watt/dev/MavenSample/src/main/java/mavensample/server/MockApiServer.java
+/home/watt/dev/MavenSample/src/main/java/mavensample/model/Greeting.java
+/home/watt/dev/MavenSample/src/main/java/mavensample/client/ApiClient.java
+/home/watt/dev/MavenSample/src/main/java/mavensample/AppConfig.java
+/home/watt/dev/MavenSample/src/main/java/mavensample/resource/HelloResource.java
